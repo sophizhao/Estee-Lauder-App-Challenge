@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ECBDDC6A285B1EC400CBDECA /* ProcessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECBDDC69285B1EC400CBDECA /* ProcessViewController.swift */; };
 		ECD604822859A17600499BFF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECD604812859A17600499BFF /* AppDelegate.swift */; };
 		ECD604842859A17600499BFF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECD604832859A17600499BFF /* SceneDelegate.swift */; };
 		ECD604862859A17600499BFF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECD604852859A17600499BFF /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ECBDDC69285B1EC400CBDECA /* ProcessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcessViewController.swift; sourceTree = "<group>"; };
 		ECD6047E2859A17600499BFF /* Estee Lauder Challenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Estee Lauder Challenge.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECD604812859A17600499BFF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ECD604832859A17600499BFF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				ECD604832859A17600499BFF /* SceneDelegate.swift */,
 				ECD604852859A17600499BFF /* ViewController.swift */,
 				ECD604872859A17600499BFF /* Main.storyboard */,
+				ECBDDC69285B1EC400CBDECA /* ProcessViewController.swift */,
 				ECD6048D2859A17700499BFF /* Assets.xcassets */,
 				ECD6048F2859A17700499BFF /* LaunchScreen.storyboard */,
 				ECD604922859A17700499BFF /* Info.plist */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ECD604862859A17600499BFF /* ViewController.swift in Sources */,
+				ECBDDC6A285B1EC400CBDECA /* ProcessViewController.swift in Sources */,
 				ECD604822859A17600499BFF /* AppDelegate.swift in Sources */,
 				ECD604842859A17600499BFF /* SceneDelegate.swift in Sources */,
 				ECD6048C2859A17600499BFF /* Estee_Lauder_Challenge.xcdatamodeld in Sources */,
@@ -291,6 +295,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DF4LH6954F;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Estee Lauder Challenge/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -318,6 +323,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DF4LH6954F;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Estee Lauder Challenge/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
