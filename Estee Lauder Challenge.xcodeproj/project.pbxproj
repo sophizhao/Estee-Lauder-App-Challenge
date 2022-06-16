@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC23894E285BE40A00D5CF2A /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC23894D285BE40A00D5CF2A /* CollectionViewController.swift */; };
 		ECBDDC6A285B1EC400CBDECA /* ProcessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECBDDC69285B1EC400CBDECA /* ProcessViewController.swift */; };
 		ECD604822859A17600499BFF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECD604812859A17600499BFF /* AppDelegate.swift */; };
 		ECD604842859A17600499BFF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECD604832859A17600499BFF /* SceneDelegate.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EC23894D285BE40A00D5CF2A /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
 		ECBDDC69285B1EC400CBDECA /* ProcessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcessViewController.swift; sourceTree = "<group>"; };
 		ECD6047E2859A17600499BFF /* Estee Lauder Challenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Estee Lauder Challenge.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECD604812859A17600499BFF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				ECD604832859A17600499BFF /* SceneDelegate.swift */,
 				ECD604852859A17600499BFF /* ViewController.swift */,
 				ECD604872859A17600499BFF /* Main.storyboard */,
+				EC23894D285BE40A00D5CF2A /* CollectionViewController.swift */,
 				ECBDDC69285B1EC400CBDECA /* ProcessViewController.swift */,
 				ECD6048D2859A17700499BFF /* Assets.xcassets */,
 				ECD6048F2859A17700499BFF /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC23894E285BE40A00D5CF2A /* CollectionViewController.swift in Sources */,
 				ECD604862859A17600499BFF /* ViewController.swift in Sources */,
 				ECBDDC6A285B1EC400CBDECA /* ProcessViewController.swift in Sources */,
 				ECD604822859A17600499BFF /* AppDelegate.swift in Sources */,

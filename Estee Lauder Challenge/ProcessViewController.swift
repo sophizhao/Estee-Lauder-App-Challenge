@@ -21,6 +21,7 @@ class ProcessViewController: UIViewController {
             titleLabel.text  = "One Dropper"
                 benefitsLabel.text = "8-hour anti-oxidant power, 72-hour hydration and plumped skin, stronger skin barrier in just 4 hours, and oil-free skin texture."
                 image1.isHidden = false
+            image2.isHidden =  true
             case 1:
             titleLabel.text = "One Bottle"
                 benefitsLabel.text = "Skin feels firmer, looks healthy, and has a new bounce and vitality. Over time, pores look diminished."
